@@ -2,6 +2,8 @@
 Sebuah aplikasi dengan fitur login
 
 Alur Fitur Login
-1. Masukkan email dan password
+1. Masukkan nama, email, dan password
 2. Memvalidasi masukkan
-3. Manampilkan halaman home
+3. Memvalidasi pengguna dengan deteksi wajah
+4. Memasukkan nama ibu untuk validasi
+5. Manampilkan halaman home
